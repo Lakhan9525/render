@@ -92,6 +92,15 @@
 
 
   }
+],
+"blogs":[
+  {
+
+    "id": 2,
+    "body": "some2 comment",
+    "postId": 1
+
+  }
 ]
 
 
